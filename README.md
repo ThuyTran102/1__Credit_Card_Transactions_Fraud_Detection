@@ -54,7 +54,7 @@ This project comprises five Jupyter notebooks:
 Below are some key results from the model evaluation:
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="60%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Pipeline.png" alt="Outcome"></img>
+<img width="880%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Pipeline.png" alt="Outcome"></img>
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -62,7 +62,7 @@ Below are some key results from the model evaluation:
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="60%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Confusion_matrix.png" alt="Outcome"></img>
+<img width="40%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Confusion_matrix.png" alt="Outcome"></img>
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
