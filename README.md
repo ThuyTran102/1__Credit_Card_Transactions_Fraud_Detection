@@ -4,6 +4,17 @@
 <img width="30%" src="https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection/blob/main/images/credit_card.jpg" alt="creditcard"></img>
 </p>
 
+
+## Table of Contents:
+- [Project Objective](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#project-objective)
+- [Datasource](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#datasource)
+- [Project Desciption](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#project-description)
+- [Key Steps Involved](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#key-steps-involved)
+- [Project Outcomes](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#project-outcomes)
+  - [Insights](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#insights)
+  - [Conclusion](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#conclusion)
+  - [Future Directions](https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection?tab=readme-ov-file#future-directions)
+
 ## Project Objective:
 This project aims to develop a model that can predict or identify fraudulent credit card transactions based on the available features within a "Credit Card Transactions" dataset.
 
