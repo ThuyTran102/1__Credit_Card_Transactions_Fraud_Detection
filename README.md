@@ -1,7 +1,8 @@
 # Credit Card Transactions Fraud Detection
+### Supervised Machine Learning Project (Classification Models)
 
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="30%" src="https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection/blob/main/images/credit_card.jpg" alt="creditcard"></img>
+<p align="left" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="40%" src="https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection/blob/main/images/credit_card.jpg" alt="credit_card"></img>
 </p>
 
 
