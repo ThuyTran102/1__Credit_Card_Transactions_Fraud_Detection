@@ -1,17 +1,21 @@
 # Credit Card Transactions Fraud Detection
 
-## Project Objectives
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<img width="30%" src="https://github.com/ThuyTran102/1__Credit_Card_Transactions_Fraud_Detection/blob/main/images/credit_card.jpg" alt="creditcard"></img>
+</p>
+
+## Project Objective:
 This project aims to develop a model that can predict or identify fraudulent credit card transactions based on the available features within a "Credit Card Transactions" dataset.
 
-## Project Description
+## Datasource:
 The dataset used for this project is sourced from Kaggle.
 
 You can find it here:
-[Kaggle Link](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
+[Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection/data)
 
 This dataset is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration **1st Jan 2019 - 31st Dec 2020**. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.
 
-## Project Description
+## Project Description:
 This project comprises five Jupyter notebooks:
 
 * 1-EDA_FeatureEngineering_Preprocessing.ipynb
@@ -23,7 +27,7 @@ This project comprises five Jupyter notebooks:
 > **Note: Due to the large file size of some notebooks, particularly the first one, you might need to download them locally to view the code.**
 
 
-## Key Steps Involved
+## Key Steps Involved:
 **1. Data Preprocessing**:
 * Handling missing values, duplicates, etc.
 * Scaling numerical variables and encoding categorical variables on the training set.
@@ -50,7 +54,7 @@ This project comprises five Jupyter notebooks:
 
 
 
-## Project Outcomes
+## Project Outcomes:
 Below are some key results from the model evaluation:
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -58,7 +62,7 @@ Below are some key results from the model evaluation:
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="60%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/ROC_curve.png" alt="Outcome"></img>
+<img width="40%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/ROC_curve.png" alt="Outcome"></img>
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
@@ -66,7 +70,7 @@ Below are some key results from the model evaluation:
 </p>
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-<img width="60%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Classification_report.png" alt="Outcome"></img>
+<img width="50%" src="https://github.com/ThuyTran102/Credit-Card-Transactions_FRAUD-Detection/blob/main/images/Classification_report.png" alt="Outcome"></img>
 </p>
 
 
@@ -82,17 +86,16 @@ Below are some key results from the model evaluation:
 > The model leaves 150 fraudulent transactions undetected, which could have severe financial consequences. It may be beneficial to adjust the model’s decision thresholds or explore additional techniques to further reduce false negatives.
 
 
-### Insights
+### Insights:
 - Class imbalance is a significant challenge when detecting fraudulent transactions.
 - Feature engineering and selection play a crucial role in boosting model performance.
 - Precision is prioritized to reduce false positives, as detecting legitimate transactions incorrectly as fraud can negatively impact customer experience.
 
-### Conclusion
+### Conclusion:
 The current model strikes a good balance between precision and recall for fraud detection, with a focus on minimizing false positives. Future enhancements could involve refining the model to catch more fraudulent transactions without overly compromising precision.
 
-The current model strikes a good balance between precision and recall for fraud detection, with a focus on minimizing false positives. Future enhancements could involve refining the model to catch more fraudulent transactions without overly compromising precision.
 
-### Future Directions
+### Future Directions:
 If more time is available, I plan to explore integrating unsupervised learning techniques into this project. This could include methods like clustering to detect unusual transaction patterns that could further enhance fraud detection capabilities.
 
 > Clustering helps group transactions with similar characteristics, enabling the creation of a new feature (i.e., cluster). This additional feature can provide valuable information about the data structure, helping improve fraud detection models. By introducing cluster labels as a feature, the model could better understand transaction patterns and potentially detect fraud more effectively.
